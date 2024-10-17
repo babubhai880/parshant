@@ -1,0 +1,29 @@
+.container{
+    border: 2px solid black;
+    text-align: center
+}
+.child1{
+    height: 200  px;
+    width: 300px;
+    border: 20px solid red;
+    background-image: url(https://i0.wp.com/picjumbo.com/wp-content/uploads/gorgeous-sunset-over-the-sea-free-image.jpeg?h=800&quality=80);
+    text-align: center;
+    background: #18a357;
+}
+
+.child2{
+    height: 200px;
+    width: 300px;
+    border: 2px solid yellow;
+    background-image: 
+    text-align: center; 
+    background: #0e0866;
+}
+.child3{
+    height: 200px;
+    width: 300px;
+    border: 2px solid blue;
+    text-align: center;
+    background: #bb8819;
+    
+} 
